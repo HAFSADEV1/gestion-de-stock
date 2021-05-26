@@ -1,0 +1,9 @@
+.title {
+  text-align: center;
+  color: rgb(74, 75, 77);
+  font-weight: bold;
+}
+.err {
+  color: red;
+  font-size: 15px;
+}
